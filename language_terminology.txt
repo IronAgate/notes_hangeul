@@ -1,0 +1,7 @@
+
+particle - functional words that do not themselves have meaning
+https://www.learnkoreanlp.com/2006/11/party-with-particles.html?m=1
+subject particle - used with subject / 는 가 도
+object particle - w/ object / 를
+additive particle - 도
+time/place particle - 에

@@ -1,0 +1,11 @@
+
+박사
+
+doctor
+
+can be suffix to name
+'dr ma' == '마박사'
+
+x? is specific kind of doctor?
+yes. Is doctor as in having a degree / doctorate
+의사 is a medical doctor
